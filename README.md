@@ -1,5 +1,5 @@
 # Celcius_to_Fahrenheit
-conversor de grau Celcius para graus em Fahrenheit
+conversor de grau Celcius para Fahrenheit
 # Ferramentas Utilizadas:
 * html
 * css
