@@ -1,3 +1,5 @@
+<img src="./termometro.jpg" >
+
 # Celcius_to_Fahrenheit
 conversor de grau Celcius para Fahrenheit
 # Ferramentas Utilizadas:
