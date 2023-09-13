@@ -1,4 +1,4 @@
-<img src="./termometro.jpg" >
+<img src="./termometro.jpg" style="width:200px;height:50px;">
 
 # Celcius_to_Fahrenheit
 conversor de grau Celcius para Fahrenheit
