@@ -3,8 +3,8 @@ const button = document.querySelector(".button");
 function go() {
   let valueInput = document.getElementById("num").value;
   let paragrafo = document.querySelector(".paragrafo");
-  let celcius =  parseInt(document.getElementById("num").value);
-  let fahrenheit = celcius* 1.8 + 32;
+  let celsius =  parseInt(document.getElementById("num").value);
+  let fahrenheit = celsius * 1.8 + 32;
 
   // Remove any existing error message
   let existingErrorMessage = document.querySelector(".error-message");
